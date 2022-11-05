@@ -20,26 +20,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "2118756008",
-      "hc_lt_id_sptag": "1779281387",
-      "id_img": "1970-Ford-Torino-GT-V5-2160_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFNzO/0XEi/B8MllSLhSngwukTutIgjXEzUKqCu1i8R5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFNzO/0XEi/B8MllSLhSngAmenbHrdtTGR+w1cSyWHf5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "678769484",
-        "530186452"
-      ],
-      "lt_id_sptag": [
-        "1896912288",
-        "168173562",
-        "2113045425"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "2118756008",
       "hc_lt_id_sptag": "1528253515",
       "id_img": "1970-Ford-Torino-GT-V1-2160_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4Uf6o2mUEZ+qJDurwbjWH1EdAnLJ9s+S3UCL4GmQEVpVy4706IhQgSYlgwrgVRHU=",
@@ -138,6 +118,26 @@
         "-777659580",
         "-1948739237",
         "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "2118756008",
+      "hc_lt_id_sptag": "1779281387",
+      "id_img": "1970-Ford-Torino-GT-V5-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFNzO/0XEi/B8MllSLhSngwukTutIgjXEzUKqCu1i8R5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFNzO/0XEi/B8MllSLhSngAmenbHrdtTGR+w1cSyWHf5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "678769484",
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "1896912288",
+        "168173562",
+        "2113045425"
       ]
     }
   ],

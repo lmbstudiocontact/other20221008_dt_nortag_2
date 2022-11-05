@@ -20,30 +20,6 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1927934139",
-      "hc_lt_id_sptag": "360846004",
-      "id_img": "TariTari_732861_crop2608_990314393",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBUnfGQV0KOVN7BVbnR6AJdCgUVck2NfOFx3j/Lw1wdJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBUnfGQV0KOVN7BVbnR6AJWEZ8XQFV9PF+IBDFESPs0ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1182628656",
-        "-174040199"
-      ],
-      "lt_id_sptag": [
-        "1545739930",
-        "-1230434216",
-        "-1686571485",
-        "1541647243",
-        "1813151526",
-        "1078827483",
-        "1410951528"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1927934139",
       "hc_lt_id_sptag": "2121820746",
       "id_img": "TariTari_732861_crop2608_-1879323828",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKCdDCooMUVLZ4d0ehAk3XCBMFYcWk6AI0cBZSzOymMZVy4706IhQgSYlgwrgVRHU=",
@@ -130,6 +106,30 @@
         "1545739930",
         "-1230434216",
         "-353024394",
+        "-1686571485",
+        "1541647243",
+        "1813151526",
+        "1078827483",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1927934139",
+      "hc_lt_id_sptag": "360846004",
+      "id_img": "TariTari_732861_crop2608_990314393",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBUnfGQV0KOVN7BVbnR6AJdCgUVck2NfOFx3j/Lw1wdJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifBUnfGQV0KOVN7BVbnR6AJWEZ8XQFV9PF+IBDFESPs0ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-174040199"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-1230434216",
         "-1686571485",
         "1541647243",
         "1813151526",

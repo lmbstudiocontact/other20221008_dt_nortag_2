@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "969644406",
+  "hc_lt_data_img": "-508981737",
   "hc_lt_nortag": "-1032398669",
-  "hc_lt_sptag": "153615180",
+  "hc_lt_sptag": "656569077",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,30 +19,8 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "68616881",
-      "hc_lt_id_sptag": "-1946437078",
-      "id_img": "UchiageHanabiShitakaraMirukaYokokaraMiruka_852077_crop2608_-1698604896",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwC45ti+2gn5dHKTT9A7LXtcwTYAABvTXS0A1saNFFCJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwC45ti+2gn5dHKTT9A7LXmFsMovx1bHFpuPgfafuKcpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1182628656",
-        "-1168896525"
-      ],
-      "lt_id_sptag": [
-        "750914149",
-        "-353024394",
-        "1508952095",
-        "1813151526",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-23154047",
-      "hc_lt_id_sptag": "",
+      "hc_lt_id_sptag": "-579839311",
       "id_img": "UchiageHanabiShitakaraMirukaYokokaraMiruka_852079_crop2608_1316498722",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidymSle+EctFtJNSS5dEaeawLJuxxGu7RAS9kGYI59m/5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidymSle+EctFtJNSS5dEaeaDJvb+IxD+BwJWg4sQB356pVy4706IhQgSYlgwrgVRHU=",
@@ -52,6 +30,9 @@
       "list_id_nortag": [
         "1728965817",
         "-1168896525"
+      ],
+      "lt_id_sptag": [
+        "1728965817"
       ]
     },
     {
@@ -78,6 +59,28 @@
         "1813151526",
         "1078827483",
         "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "68616881",
+      "hc_lt_id_sptag": "-1946437078",
+      "id_img": "UchiageHanabiShitakaraMirukaYokokaraMiruka_852077_crop2608_-1698604896",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwC45ti+2gn5dHKTT9A7LXtcwTYAABvTXS0A1saNFFCJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwC45ti+2gn5dHKTT9A7LXmFsMovx1bHFpuPgfafuKcpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-1168896525"
+      ],
+      "lt_id_sptag": [
+        "750914149",
+        "-353024394",
+        "1508952095",
+        "1813151526",
+        "1078827483"
       ]
     },
     {
@@ -142,6 +145,12 @@
       "name_cl_sptag": "Cloud",
       "name_parent": "Anime",
       "total": 163
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "1805739717",

@@ -6,9 +6,9 @@
   "total_img": 7,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1777360129",
+  "hc_lt_data_img": "54392262",
   "hc_lt_nortag": "-2083962244",
-  "hc_lt_sptag": "2135480148",
+  "hc_lt_sptag": "1555426356",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,61 +19,22 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1522589274",
-      "hc_lt_id_sptag": "",
-      "id_img": "Xenosaga_214470_crop2608_1111006785",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxnjjSATqqkj+Z2gGo4r/oLgescD+1jay8x6r5lx13QpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxnjjSATqqkj+Z2gGo4r/oUNP3CCI2445h4i8l0BJyoJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-1999016473",
+      "hc_lt_id_sptag": "1194346712",
+      "id_img": "Xenosaga_660233_crop2608_1022334301",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/4wUh3mFFWm0G6X/nLnVO8ezPR4qhBvDDDx43+N8VtZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/4wUh3mFFWm0G6X/nLnVODu5AkFvn2GH2vdCk6hvcEpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "-467032699",
+        "-1182628656",
         "-62954865"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1062283509",
-      "hc_lt_id_sptag": "",
-      "id_img": "Xenosaga_214471_crop2608_-1990571202",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUA5J6AVuzarXu8Cf0b2hNgY9rgnP+SZhmZqPk3KKyZJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUA5J6AVuzarXu8Cf0b2hNLAUoDYnea4xPs4hFohVQLpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
       ],
-      "list_id_nortag": [
-        "-1680016906",
-        "-62954865"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1062283509",
-      "hc_lt_id_sptag": "",
-      "id_img": "Xenosaga_214472_crop2608_2048632021",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie//pS8o5328wRl1DSY1fXQ/rJGm6xbOkvFaA6lBRBsMZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie//pS8o5328wRl1DSY1fXQZ5odbSFdrBNfAvjrPVJEWpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1680016906",
-        "-62954865"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1295637913",
-      "hc_lt_id_sptag": "",
-      "id_img": "Xenosaga_233666_crop2608_2014186847",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiffJcWiwPu21fZbivaCbTgAsHS8v9ytcdJ51roPxDvB45Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiffJcWiwPu21fZbivaCbTgA9n8cloDjVyLbjP54hWkj/pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-62954865"
+      "lt_id_sptag": [
+        "1568092380",
+        "-1450260536",
+        "1410951528"
       ]
     },
     {
@@ -104,7 +65,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1062283509",
-      "hc_lt_id_sptag": "",
+      "hc_lt_id_sptag": "768798643",
       "id_img": "Xenosaga_214471_crop2608_541080212",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBMarGf9aEN9LZnTEmuLkkwXQqAeBLZmdG4ZoswBuptpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBMarGf9aEN9LZnTEmuLkkGW5CiMphYPbYXlEdQJMkG5Vy4706IhQgSYlgwrgVRHU=",
@@ -114,26 +75,77 @@
       "list_id_nortag": [
         "-1680016906",
         "-62954865"
+      ],
+      "lt_id_sptag": [
+        "-1680016906"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1999016473",
-      "hc_lt_id_sptag": "1194346712",
-      "id_img": "Xenosaga_660233_crop2608_1022334301",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/4wUh3mFFWm0G6X/nLnVO8ezPR4qhBvDDDx43+N8VtZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/4wUh3mFFWm0G6X/nLnVODu5AkFvn2GH2vdCk6hvcEpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "1062283509",
+      "hc_lt_id_sptag": "768798643",
+      "id_img": "Xenosaga_214472_crop2608_2048632021",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie//pS8o5328wRl1DSY1fXQ/rJGm6xbOkvFaA6lBRBsMZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie//pS8o5328wRl1DSY1fXQZ5odbSFdrBNfAvjrPVJEWpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "-1182628656",
+        "-1680016906",
         "-62954865"
       ],
       "lt_id_sptag": [
-        "1568092380",
-        "-1450260536",
-        "1410951528"
+        "-1680016906"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1522589274",
+      "hc_lt_id_sptag": "-1433110098",
+      "id_img": "Xenosaga_214470_crop2608_1111006785",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxnjjSATqqkj+Z2gGo4r/oLgescD+1jay8x6r5lx13QpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxnjjSATqqkj+Z2gGo4r/oUNP3CCI2445h4i8l0BJyoJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-62954865"
+      ],
+      "lt_id_sptag": [
+        "-467032699"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1062283509",
+      "hc_lt_id_sptag": "768798643",
+      "id_img": "Xenosaga_214471_crop2608_-1990571202",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUA5J6AVuzarXu8Cf0b2hNgY9rgnP+SZhmZqPk3KKyZJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUA5J6AVuzarXu8Cf0b2hNLAUoDYnea4xPs4hFohVQLpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1680016906",
+        "-62954865"
+      ],
+      "lt_id_sptag": [
+        "-1680016906"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1295637913",
+      "hc_lt_id_sptag": "",
+      "id_img": "Xenosaga_233666_crop2608_2014186847",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiffJcWiwPu21fZbivaCbTgAsHS8v9ytcdJ51roPxDvB45Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiffJcWiwPu21fZbivaCbTgA9n8cloDjVyLbjP54hWkj/pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-62954865"
       ]
     }
   ],
@@ -164,6 +176,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "-1176638482",
       "name_cl_sptag": "Dark Black",
@@ -223,6 +241,12 @@
       "name_cl_sptag": "Girls Uniform",
       "name_parent": "Anime",
       "total": 16929
+    },
+    {
+      "id_sptag": "-1680016906",
+      "name_cl_sptag": "Scenery Arts",
+      "name_parent": "Anime",
+      "total": 2036
     },
     {
       "id_sptag": "-30421697",

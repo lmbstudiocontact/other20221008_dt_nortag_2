@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-2011400378",
+  "hc_lt_data_img": "-1504908667",
   "hc_lt_nortag": "1590834681",
-  "hc_lt_sptag": "-663053009",
+  "hc_lt_sptag": "-302767970",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -52,7 +52,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1681177392",
-      "hc_lt_id_sptag": "",
+      "hc_lt_id_sptag": "-579839311",
       "id_img": "SoundHorizon_922430_crop2608_202169661",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifg3jyuvCylrf3TR1rUNU0ok7KnST1RSi6I+jH6daIoTZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifg3jyuvCylrf3TR1rUNU0om1c77qNqi0F/oVdMQNwsV5Vy4706IhQgSYlgwrgVRHU=",
@@ -61,6 +61,9 @@
       ],
       "list_id_nortag": [
         "22161571",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
         "1728965817"
       ]
     }
@@ -103,6 +106,12 @@
       "name_cl_sptag": "Book",
       "name_parent": "Anime",
       "total": 116
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "376240968",

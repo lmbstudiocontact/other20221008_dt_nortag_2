@@ -6,9 +6,9 @@
   "total_img": 8,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1393168407",
+  "hc_lt_data_img": "134228183",
   "hc_lt_nortag": "-98598894",
-  "hc_lt_sptag": "196271962",
+  "hc_lt_sptag": "-1395373240",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,34 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-302994283",
-      "hc_lt_id_sptag": "-380363746",
-      "id_img": "TokyoNecro_877924_crop2608_879371601",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqh0/2s1zBoiCo8nvPmSwB7RK+bwQNhprblBQTGWCVA5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqh0/2s1zBoiCo8nvPmSwBMSyd1jLrOqBDRvo4bEoPv5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-573341208",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1216236529",
-        "-1937610099",
-        "-111108595",
-        "-353024394",
-        "-1092439432",
-        "-1686571485",
-        "680065126",
-        "-1176638482",
-        "-260062140",
-        "-899599709",
-        "1078827483"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-302994283",
@@ -71,52 +43,8 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-2142764704",
-      "hc_lt_id_sptag": "",
-      "id_img": "TokyoNecro_877920_crop2608_-855868339",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLjbqD9hAS69dIBKaafrvgwl0bCSvnEEK3r1tI03Nz5ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLjbqD9hAS69dIBKaafrvg3HLUfqfxTo9/u2IGzw4zBpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-573341208"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-302994283",
-      "hc_lt_id_sptag": "-1195956516",
-      "id_img": "TokyoNecro_877916_crop2608_110042100",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPcqYDRcX0cIkoRDN5/f/PPnJgk7c1JWzIbm6ujEz4GJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPcqYDRcX0cIkoRDN5/f/PjpFEP0ute7ZAM/Dddf5m6pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-573341208",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "1271392973",
-        "-1915687819",
-        "-1216236529",
-        "-1230434216",
-        "-442593670",
-        "-353024394",
-        "376240968",
-        "-1450260536",
-        "680065126",
-        "-1823594757",
-        "1078827483",
-        "904137049"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1461174083",
-      "hc_lt_id_sptag": "",
+      "hc_lt_id_sptag": "-579839311",
       "id_img": "TokyoNecro_877915_crop2608_-1397509709",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifo5uSHvKC/KclEHEUVEedHFkIvKnR/i7qtIVVGGxK2W5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifo5uSHvKC/KclEHEUVEedHezN024fLm0vpYJGx59DXf5Vy4706IhQgSYlgwrgVRHU=",
@@ -126,15 +54,18 @@
       "list_id_nortag": [
         "1728965817",
         "-573341208"
+      ],
+      "lt_id_sptag": [
+        "1728965817"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-302994283",
-      "hc_lt_id_sptag": "1906079965",
-      "id_img": "TokyoNecro_877926_crop2608_-1521260607",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIyc4ExCvemjE1HIceNyvZS0IEZX3sLCMsVS2SHlK2q5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIyc4ExCvemjE1HIceNyvZlj8h5X7zij5QwJ+IZMobwJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-764743902",
+      "id_img": "TokyoNecro_877919_crop2608_337730231",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpZCdO6giw29b2LIrFv5Q4l6BGg8r+6t2qBAWxro8aMJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpZCdO6giw29b2LIrFv5Q4H31j9evVLt+dHMei+yoMeZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -143,13 +74,13 @@
         "-1182628656"
       ],
       "lt_id_sptag": [
-        "-729883027",
-        "-442593670",
         "117222074",
         "-353024394",
-        "-1450260536",
-        "491824726",
-        "467732324"
+        "376240968",
+        "-1686571485",
+        "-260062140",
+        "-1165766878",
+        "1078827483"
       ]
     },
     {
@@ -183,11 +114,29 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2142764704",
+      "hc_lt_id_sptag": "-1433110098",
+      "id_img": "TokyoNecro_877920_crop2608_-855868339",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLjbqD9hAS69dIBKaafrvgwl0bCSvnEEK3r1tI03Nz5ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLjbqD9hAS69dIBKaafrvg3HLUfqfxTo9/u2IGzw4zBpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-573341208"
+      ],
+      "lt_id_sptag": [
+        "-467032699"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-302994283",
-      "hc_lt_id_sptag": "-764743902",
-      "id_img": "TokyoNecro_877919_crop2608_337730231",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpZCdO6giw29b2LIrFv5Q4l6BGg8r+6t2qBAWxro8aMJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpZCdO6giw29b2LIrFv5Q4H31j9evVLt+dHMei+yoMeZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1195956516",
+      "id_img": "TokyoNecro_877916_crop2608_110042100",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPcqYDRcX0cIkoRDN5/f/PPnJgk7c1JWzIbm6ujEz4GJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPcqYDRcX0cIkoRDN5/f/PjpFEP0ute7ZAM/Dddf5m6pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -196,13 +145,70 @@
         "-1182628656"
       ],
       "lt_id_sptag": [
-        "117222074",
+        "1271392973",
+        "-1915687819",
+        "-1216236529",
+        "-1230434216",
+        "-442593670",
         "-353024394",
         "376240968",
+        "-1450260536",
+        "680065126",
+        "-1823594757",
+        "1078827483",
+        "904137049"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-302994283",
+      "hc_lt_id_sptag": "-380363746",
+      "id_img": "TokyoNecro_877924_crop2608_879371601",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqh0/2s1zBoiCo8nvPmSwB7RK+bwQNhprblBQTGWCVA5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqh0/2s1zBoiCo8nvPmSwBMSyd1jLrOqBDRvo4bEoPv5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-573341208",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1216236529",
+        "-1937610099",
+        "-111108595",
+        "-353024394",
+        "-1092439432",
         "-1686571485",
+        "680065126",
+        "-1176638482",
         "-260062140",
-        "-1165766878",
+        "-899599709",
         "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-302994283",
+      "hc_lt_id_sptag": "1906079965",
+      "id_img": "TokyoNecro_877926_crop2608_-1521260607",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIyc4ExCvemjE1HIceNyvZS0IEZX3sLCMsVS2SHlK2q5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIyc4ExCvemjE1HIceNyvZlj8h5X7zij5QwJ+IZMobwJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-573341208",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-729883027",
+        "-442593670",
+        "117222074",
+        "-353024394",
+        "-1450260536",
+        "491824726",
+        "467732324"
       ]
     }
   ],
@@ -233,6 +239,18 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "-1176638482",
       "name_cl_sptag": "Dark Black",

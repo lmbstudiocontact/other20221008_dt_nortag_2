@@ -20,6 +20,24 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "1331019863",
+      "hc_lt_id_sptag": "-161475118",
+      "id_img": "2021-Vega-EVX-V3-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHSvDG7214xZKB9m4Zn+7QuxXVAGiDfj3yAIZqGYVOSZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHSvDG7214xZKB9m4Zn+7Qw67YwE/MXTNYJ3rvvvY+JpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "2042554594"
+      ],
+      "lt_id_sptag": [
+        "-2005027998",
+        "-1923804170"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1331019863",
       "hc_lt_id_sptag": "1946720425",
       "id_img": "2021-Vega-EVX-V1-2160_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicC2YC5cPOjQ+v4/AWYYLu3An57f54peejNCidt3Lf3upVy4706IhQgSYlgwrgVRHU=",
@@ -50,24 +68,6 @@
       ],
       "lt_id_sptag": [
         "-1808514493",
-        "-1923804170"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1331019863",
-      "hc_lt_id_sptag": "-161475118",
-      "id_img": "2021-Vega-EVX-V3-2160_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHSvDG7214xZKB9m4Zn+7QuxXVAGiDfj3yAIZqGYVOSZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHSvDG7214xZKB9m4Zn+7Qw67YwE/MXTNYJ3rvvvY+JpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "2042554594"
-      ],
-      "lt_id_sptag": [
-        "-2005027998",
         "-1923804170"
       ]
     }

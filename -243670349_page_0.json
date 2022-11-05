@@ -6,9 +6,9 @@
   "total_img": 7,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "477949269",
+  "hc_lt_data_img": "1207154004",
   "hc_lt_nortag": "-2129151976",
-  "hc_lt_sptag": "1943585236",
+  "hc_lt_sptag": "282012367",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -95,8 +95,35 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-133516330",
+      "hc_lt_id_sptag": "-1580117016",
+      "id_img": "TheRyuosWorkisNeverDone_954585_crop2608_-2093088199",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQPezI9VzXRtc4zE8/LIOTI3REIA9ku56MjjvJ19PKLJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQPezI9VzXRtc4zE8/LIOTh0TILLv12W+HKSrf33X4spVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-243670349",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-1546073662",
+        "117222074",
+        "-353024394",
+        "-1686571485",
+        "-2018416186",
+        "1541647243",
+        "1813151526",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1178612388",
-      "hc_lt_id_sptag": "",
+      "hc_lt_id_sptag": "-579839311",
       "id_img": "TheRyuosWorkisNeverDone_943427_crop2608_1762126414",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTYF2N6jc1UKwtcSCi6b28GqZPMMBZ+NpD5OBGobOIpJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTYF2N6jc1UKwtcSCi6b28zx+wWj8P8/V2fs3joqdAkJVy4706IhQgSYlgwrgVRHU=",
@@ -106,6 +133,9 @@
       "list_id_nortag": [
         "1728965817",
         "-243670349"
+      ],
+      "lt_id_sptag": [
+        "1728965817"
       ]
     },
     {
@@ -160,33 +190,6 @@
         "1078827483",
         "491824726"
       ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-133516330",
-      "hc_lt_id_sptag": "-1580117016",
-      "id_img": "TheRyuosWorkisNeverDone_954585_crop2608_-2093088199",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQPezI9VzXRtc4zE8/LIOTI3REIA9ku56MjjvJ19PKLJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQPezI9VzXRtc4zE8/LIOTh0TILLv12W+HKSrf33X4spVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-243670349",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1230434216",
-        "-1546073662",
-        "117222074",
-        "-353024394",
-        "-1686571485",
-        "-2018416186",
-        "1541647243",
-        "1813151526",
-        "1078827483",
-        "491824726"
-      ]
     }
   ],
   "lt_nortag": [
@@ -221,6 +224,12 @@
       "name_cl_sptag": "Ai Yashajin",
       "name_parent": "Anime",
       "total": 25
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "-2060496300",
